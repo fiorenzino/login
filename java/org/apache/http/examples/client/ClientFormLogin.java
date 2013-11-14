@@ -138,8 +138,8 @@ public class ClientFormLogin
          httpost.setHeader("Content-Type",
                   "application/x-www-form-urlencoded"); //
          List<NameValuePair> nvps = new ArrayList<NameValuePair>();
-         nvps.add(new BasicNameValuePair("email", "fiorenzino@gmail.com"));
-         nvps.add(new BasicNameValuePair("password", "d10b01a"));
+         nvps.add(new BasicNameValuePair("email", "xxxx@gmail.com"));
+         nvps.add(new BasicNameValuePair("password", "xxxxxxxxx"));
          nvps.add(new BasicNameValuePair("g", ""));
          nvps.add(new BasicNameValuePair("t", ""));
          nvps.add(new BasicNameValuePair("CSRF", csfr));
